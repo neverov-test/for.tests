@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" parent-id="Vsettings" uuid="72cc5599-71b4-422a-a48c-ab43c630c48f" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
   <name>github ssh</name>
-  <parameters />
+  <parameters>
+    <param name="a" value="b" />
+  </parameters>
   <cleanup />
 </project>
 
